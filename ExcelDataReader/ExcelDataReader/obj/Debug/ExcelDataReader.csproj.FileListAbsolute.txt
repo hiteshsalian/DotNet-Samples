@@ -1,0 +1,9 @@
+C:\Samples\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.csproj.ResolveComReference.cache
+C:\Samples\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.exe
+C:\Samples\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.pdb
+C:\Samples\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.csprojResolveAssemblyReference.cache
+C:\Samples\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.exe
+C:\Samples\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.pdb
+C:\Samples\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.exe.config
+C:\Samples\ExcelDataReader\ExcelDataReader\bin\Debug\Newtonsoft.Json.dll
+C:\Samples\ExcelDataReader\ExcelDataReader\bin\Debug\Newtonsoft.Json.xml

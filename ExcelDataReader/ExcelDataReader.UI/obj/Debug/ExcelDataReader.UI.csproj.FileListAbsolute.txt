@@ -1,0 +1,14 @@
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\bin\Debug\ExcelDataReader.UI.exe.config
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\bin\Debug\ExcelDataReader.UI.exe
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\bin\Debug\ExcelDataReader.UI.pdb
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\MainWindow.g.cs
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\App.g.cs
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI_MarkupCompile.cache
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI_MarkupCompile.lref
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\MainWindow.baml
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI.g.resources
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI.Properties.Resources.resources
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI.csproj.GenerateResource.Cache
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI.exe
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI.pdb
+C:\Samples\ExcelDataReader\ExcelDataReader.UI\obj\Debug\ExcelDataReader.UI.csprojResolveAssemblyReference.cache
